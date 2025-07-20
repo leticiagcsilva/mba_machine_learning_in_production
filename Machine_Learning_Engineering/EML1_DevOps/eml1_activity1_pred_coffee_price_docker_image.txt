@@ -1,0 +1,1 @@
+https://hub.docker.com/layers/leticiagomescsilva/pred_coffee_price/tag/images/sha256:d83edb419a149d836c0a621c59fb4a332edc67b7b7b77d1d718a81820c236e7c?uuid=54D59CE9-7173-4832-A456-1F9454EC757C
